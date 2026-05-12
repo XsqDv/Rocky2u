@@ -11,7 +11,7 @@
 ------------------------------------------
 ------------------REBORN------------------
 ]]
-
+--// new prefix is ':' --\\
 local ADMINS = {game:GetService("Players").LocalPlayer.UserId}
 local BANS = {}
 local MOTD = "Do a barrel roll!"
